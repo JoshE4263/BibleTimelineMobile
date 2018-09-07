@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Android_Multi/BibleTimelineMobile-armv7-es2.apk
+Android_Multi/Install_BibleTimelineMobile_Development-armv7-es2.bat
+Android_Multi/main.1.com.YourCompany.BibleTimelineMobile.obb
+Android_Multi/Uninstall_BibleTimelineMobile_Development-armv7-es2.bat
